@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nomad-movie-react/static/css/main.5a3d5d97.chunk.css",
-    "main.js": "/nomad-movie-react/static/js/main.eb969003.chunk.js",
-    "main.js.map": "/nomad-movie-react/static/js/main.eb969003.chunk.js.map",
-    "runtime-main.js": "/nomad-movie-react/static/js/runtime-main.a4754b92.js",
-    "runtime-main.js.map": "/nomad-movie-react/static/js/runtime-main.a4754b92.js.map",
-    "static/js/2.cd1c2573.chunk.js": "/nomad-movie-react/static/js/2.cd1c2573.chunk.js",
-    "static/js/2.cd1c2573.chunk.js.map": "/nomad-movie-react/static/js/2.cd1c2573.chunk.js.map",
-    "static/js/3.eedb1afb.chunk.js": "/nomad-movie-react/static/js/3.eedb1afb.chunk.js",
-    "static/js/3.eedb1afb.chunk.js.map": "/nomad-movie-react/static/js/3.eedb1afb.chunk.js.map",
+    "main.css": "/nomad-movie-react/static/css/main.409add04.chunk.css",
+    "main.js": "/nomad-movie-react/static/js/main.53fb2d5b.chunk.js",
+    "main.js.map": "/nomad-movie-react/static/js/main.53fb2d5b.chunk.js.map",
+    "runtime-main.js": "/nomad-movie-react/static/js/runtime-main.3a82ffe4.js",
+    "runtime-main.js.map": "/nomad-movie-react/static/js/runtime-main.3a82ffe4.js.map",
+    "static/js/2.c2c2247f.chunk.js": "/nomad-movie-react/static/js/2.c2c2247f.chunk.js",
+    "static/js/2.c2c2247f.chunk.js.map": "/nomad-movie-react/static/js/2.c2c2247f.chunk.js.map",
+    "static/js/3.2ee6b4f9.chunk.js": "/nomad-movie-react/static/js/3.2ee6b4f9.chunk.js",
+    "static/js/3.2ee6b4f9.chunk.js.map": "/nomad-movie-react/static/js/3.2ee6b4f9.chunk.js.map",
     "index.html": "/nomad-movie-react/index.html",
-    "static/css/main.5a3d5d97.chunk.css.map": "/nomad-movie-react/static/css/main.5a3d5d97.chunk.css.map",
-    "static/js/2.cd1c2573.chunk.js.LICENSE.txt": "/nomad-movie-react/static/js/2.cd1c2573.chunk.js.LICENSE.txt"
+    "static/css/main.409add04.chunk.css.map": "/nomad-movie-react/static/css/main.409add04.chunk.css.map",
+    "static/js/2.c2c2247f.chunk.js.LICENSE.txt": "/nomad-movie-react/static/js/2.c2c2247f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4754b92.js",
-    "static/js/2.cd1c2573.chunk.js",
-    "static/css/main.5a3d5d97.chunk.css",
-    "static/js/main.eb969003.chunk.js"
+    "static/js/runtime-main.3a82ffe4.js",
+    "static/js/2.c2c2247f.chunk.js",
+    "static/css/main.409add04.chunk.css",
+    "static/js/main.53fb2d5b.chunk.js"
   ]
 }
