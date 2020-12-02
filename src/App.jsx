@@ -22,7 +22,7 @@ function App() {
     <section className="container">
       {isLoading ? (
         <div className="loader">
-          <span className="loader__text">Loding...</span>
+          <span className="loader__text">Loading...</span>
         </div>
       ) : (
         <div className="movies">
